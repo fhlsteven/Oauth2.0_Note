@@ -159,8 +159,7 @@ __ __ __
 `[foo]: http://example.com/ 'Optional Title Here'` </br>
 `[foo]: http://example.com/ (Optional Title Here)` </br>
 > 还支持这种写法，如果你不想混淆的话：</br>
-[foo]: <http://example.com/> "Optional Title Here" </br>
-
+`[foo]: <http://example.com/> "Optional Title Here"` </br>
 > 还有一种隐式链接的写法，那种写法不直观
 
 ---
