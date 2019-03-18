@@ -159,8 +159,8 @@ __ __ __
 `[foo]: http://example.com/ 'Optional Title Here'` </br>
 `[foo]: http://example.com/ (Optional Title Here)` </br>
 > 还支持这种写法，如果你不想混淆的话：</br>
-\[foo\]: <http://example.com/> "Optional Title Here"
-</br>
+[foo]: <http://example.com/> "Optional Title Here" </br>
+
 > 还有一种隐式链接的写法，那种写法不直观
 
 ---
@@ -218,18 +218,21 @@ Shirley|女|98
 ```
 
 exp1:
+
  |   name   |    age   |    sex   |
  |:--------:|:--------:|:--------:|
  |   tony   |    20    |    男    |
  |  Shirley |    18    |    女    |
 
 exp2:
+
 表头一 | 表头二
 -------------|-------------
 Content Cell | Content Cell
 Content Cell | Content Cell
 
 exp3:
+
 姓名|性别|分数
 -|-|-
 胡八一|男|99
