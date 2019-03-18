@@ -4,8 +4,7 @@
 
 >## 摘要
 
-The OAuth 2.0 authorization framework enables a third-party application to obtain limited access to an HTTP service, either on behalf of a resource owner by orchestrating an approval interaction between the resource owner and the HTTP service, or by allowing the third-party application to obtain access on its own behalf.  This specification replaces and obsoletes the OAuth 1.0 protocol described
-in RFC 5849.
+The OAuth 2.0 authorization framework enables a third-party application to obtain limited access to an HTTP service, either on behalf of a resource owner by orchestrating an approval interaction between the resource owner and the HTTP service, or by allowing the third-party application to obtain access on its own behalf.  This specification replaces and obsoletes the OAuth 1.0 protocol described in RFC 5849.
 
 > OAuth 2.0授权框架使第三方应用程序能够获得对HTTP服务的有限访问权限，代表资源所有者通过编排资源所有者和HTTP服务之间的批准交互，或允许第三方应用程序代表自己获取访问权限。此规范取代并废弃RFC 5849中描述的OAuth 1.0协议。
 
